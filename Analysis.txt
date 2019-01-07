@@ -1,0 +1,6 @@
+Based on Latitude and Max temperature graph, cities closer to latitude 0 has highest temperature and the temperature drops for cities which are located further North.
+
+Based on Latitude and Humidity graph, many cities in the zone of -40 to +40 latitude have high humidity.
+
+Based on Latitude and Wind speed graph,Looks like city location in far northern (Latitude 60 to 80) and far southern hemisphere
+(latitude -2- to -40) has a tendency of high wind speed.
